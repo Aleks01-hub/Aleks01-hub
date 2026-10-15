@@ -1,36 +1,60 @@
-# Olá! Eu sou o Alex 👋
+<div align="center">
 
-🎓 **Estudante de Engenharia de Software no IFCE**  
-📍 Ceará, Brasil  
-💻 Em formação para atuar com desenvolvimento de software
+<img src="assets/profile-banner.svg" alt="Alex Silva — Software Engineering Student" width="100%" />
 
-Tenho formação técnica em Administração e atualmente uno essa visão de processos e negócios ao desenvolvimento de soluções tecnológicas. Estou construindo minha base em programação, praticando com projetos próprios e aprendendo continuamente.
+<br/>
 
-## 🚀 Tecnologias e estudos
+<a href="https://github.com/Aleks01-hub">
+  <img src="https://img.shields.io/badge/GitHub-Aleks01--hub-18181b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+</a>
+<a href="https://www.linkedin.com/in/alex-almeida-1376912b5/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-18181b?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
-- **Java** — estudando programação e orientação a objetos
-- **C** — fundamentos de programação e algoritmos
-- **JavaScript / TypeScript e React** — prática em projetos web
-- **Git e GitHub** — versionamento e organização de projetos
-- **MySQL** — estudando banco de dados e persistência
+</div>
 
-## 🛠️ Projetos em destaque
+## Sobre mim
 
-### [Fashion Cash Flow](https://github.com/Aleks01-hub/fashion-cash-flow)
-Projeto de gestão para apoiar o controle de produtos, estoque, vendas e fluxo financeiro de um pequeno negócio.
+Sou estudante de **Engenharia de Software no IFCE**, no Ceará, Brasil. Tenho formação técnica em Administração e gosto de conectar tecnologia, processos e necessidades reais de negócio.
 
-### [IMobile](https://github.com/Aleks01-hub/home-sweet-home-finder)
-Projeto web voltado à busca e visualização de imóveis. O repositório está privado no momento; o link poderá ser atualizado quando estiver público.
+Atualmente, estou fortalecendo minha base em programação e desenvolvendo projetos para aprender na prática. Meu objetivo é evoluir como desenvolvedor de software e contribuir com soluções úteis, bem estruturadas e documentadas.
 
-## 🎯 Meu objetivo
+## Tecnologias em estudo
 
-Busco evoluir como desenvolvedor, fortalecer minha lógica de programação e criar aplicações úteis, com código organizado, documentação clara e atenção às necessidades reais dos usuários.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,c,html,git,github,mysql&theme=dark" alt="Java, C, HTML, Git, GitHub e MySQL" />
+</div>
 
-## 📫 Contato
+## Projetos em destaque
 
-- [LinkedIn](https://www.linkedin.com/in/alex-almeida-1376912b5/)
-- [Instagram](https://www.instagram.com/alxxsilv/)
+<div align="center">
+
+<a href="https://github.com/Aleks01-hub/fashion-cash-flow">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aleks01-hub&repo=fashion-cash-flow&theme=github_dark&hide_border=true" alt="Fashion Cash Flow repository card" />
+</a>
+<a href="https://github.com/Aleks01-hub/home-sweet-home-finder">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aleks01-hub&repo=home-sweet-home-finder&theme=github_dark&hide_border=true" alt="Home Sweet Home Finder repository card" />
+</a>
+
+</div>
+
+## Estatísticas do GitHub
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aleks01-hub&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleks01-hub&layout=compact&theme=github_dark&hide_border=true" alt="Most used programming languages" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=Aleks01-hub&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+</div>
+
+## Vamos conversar?
+
+- **LinkedIn:** [alex-almeida](https://www.linkedin.com/in/alex-almeida-1376912b5/)
+- **GitHub:** [@Aleks01-hub](https://github.com/Aleks01-hub)
+- **Instagram:** [@alxxsilv](https://www.instagram.com/alxxsilv/)
 
 ---
 
-⭐ Obrigado por visitar meu perfil! Estou sempre aprendendo e construindo novos projetos.
+<div align="center">
+  <sub>Aprendendo, construindo e evoluindo um commit de cada vez.</sub>
+</div>
