@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile-banner.svg" alt="Alex Silva — Software Engineering Student" width="100%" />
+<img src="assets/profile-banner.svg" alt="I'm Alex Silva — Software Engineering Student" width="100%" />
 
 <br/>
 
